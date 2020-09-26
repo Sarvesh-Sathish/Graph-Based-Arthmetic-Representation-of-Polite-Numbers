@@ -1,1 +1,1 @@
-# Cops and Robbers Variation With Weighted Graphs 
+# Graph Based Arthmetic Representation of Polite Numbers
